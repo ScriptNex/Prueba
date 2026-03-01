@@ -268,6 +268,55 @@ export class JadibotManager {
         }
     }
 
+    async logoutSubbot(userId: string) {
+        const cleanPhone = userId.split('@')[0];
+        const sessionPath = path.join(process.cwd(), 'subbots', cleanPhone);
+        
+        // Stop if running
+        this.stopSubbot(userId);
+
+        try {
+            if (fs.existsSync(sessionPath)) {
+                fs.rmSync(sessionPath, { recursive: true, force: true });
+                return { success: true, message: 'ꕣ Sesión eliminada correctamente' };
+            }
+            return { success: false, message: 'ꕢ No se encontró ninguna sesión guardada' };
+        } catch (error: any) {
+            logger.error(`[Jadibot] Error deleting session for ${cleanPhone}:`, error.message);
+            return { success: false, message: 'ꕢ Error al eliminar la sesión' };
+        }
+    }
+
+    async logoutAllSubbots() {
+        const sessionsDir = path.join(process.cwd(), 'subbots');
+        
+        // Disconnect all active ones
+        for (const [userId, data] of this.subbots.entries()) {
+            if (data.bot) {
+                data.bot.disconnect?.();
+            }
+        }
+        this.subbots.clear();
+        this.pendingConnections.clear();
+
+        try {
+            if (fs.existsSync(sessionsDir)) {
+                const files = fs.readdirSync(sessionsDir);
+                for (const file of files) {
+                    const fullPath = path.join(sessionsDir, file);
+                    if (fs.statSync(fullPath).isDirectory()) {
+                        fs.rmSync(fullPath, { recursive: true, force: true });
+                    }
+                }
+                return { success: true, message: 'ꕣ Todas las sesiones han sido eliminadas' };
+            }
+            return { success: true, message: 'ꕢ No hay sesiones para eliminar' };
+        } catch (error: any) {
+            logger.error(`[Jadibot] Error deleting all sessions:`, error.message);
+            return { success: false, message: 'ꕢ Error al eliminar todas las sesiones' };
+        }
+    }
+
     async loadSessions(mainSock: any) {
         const sessionsDir = path.join(process.cwd(), 'subbots');
         if (!fs.existsSync(sessionsDir)) return;
