@@ -1,5 +1,6 @@
 import { normalizeUserId, isAdmin } from './permissions.js';
 import * as formatters from './formatters.js';
+import { getCachedGroupMetadata } from '../handlers/MessageHandler.js';
 
 export const sleep = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
 
@@ -54,7 +55,7 @@ export const getName = async (bot: any, chatId: string | null, userId: string): 
         }
         if (chatId && chatId.endsWith('@g.us')) {
             try {
-                const groupMetadata = await sock.groupMetadata(chatId);
+                const groupMetadata = await getCachedGroupMetadata(sock, chatId);
                 if (groupMetadata && groupMetadata.participants) {
                     const participant = groupMetadata.participants.find((p: any) => {
                         const pNum = extractNum(p.id);

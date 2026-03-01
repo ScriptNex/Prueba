@@ -6,8 +6,40 @@ import User from '../../models/User.js';
 import Group from '../../models/Group.js';
 import { globalLogger as logger } from '../../utils/Logger.js';
 
-const userCache = new Map<string, any>();
-const groupCache = new Map<string, any>();
+const USER_CACHE_TTL = 5 * 60 * 1000; // 5 minutes
+const GROUP_CACHE_TTL = 5 * 60 * 1000;
+const MAX_CACHE_SIZE = 500;
+
+class TTLCache<V> {
+    private map = new Map<string, { value: V; ts: number }>();
+    constructor(private ttl: number, private maxSize: number) {}
+    get(key: string): V | undefined {
+        const entry = this.map.get(key);
+        if (!entry) return undefined;
+        if (Date.now() - entry.ts > this.ttl) { this.map.delete(key); return undefined; }
+        return entry.value;
+    }
+    set(key: string, value: V): void {
+        if (this.map.size >= this.maxSize) {
+            const firstKey = this.map.keys().next().value;
+            if (firstKey) this.map.delete(firstKey);
+        }
+        this.map.set(key, { value, ts: Date.now() });
+    }
+    delete(key: string): void { this.map.delete(key); }
+    has(key: string): boolean {
+        const entry = this.map.get(key);
+        if (!entry) return false;
+        if (Date.now() - entry.ts > this.ttl) { this.map.delete(key); return false; }
+        return true;
+    }
+    keys(): IterableIterator<string> { return this.map.keys(); }
+    get size(): number { return this.map.size; }
+    clear(): void { this.map.clear(); }
+}
+
+const userCache = new TTLCache<any>(USER_CACHE_TTL, MAX_CACHE_SIZE);
+const groupCache = new TTLCache<any>(GROUP_CACHE_TTL, MAX_CACHE_SIZE);
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const MONGODB_URI = "mongodb+srv://Vercel-Admin-soblend-redzmey-spaceworkflow:SOquhfF8HTxqFcTw@soblend-redzmey-spacewo.7aubqkc.mongodb.net/?retryWrites=true&w=majority";

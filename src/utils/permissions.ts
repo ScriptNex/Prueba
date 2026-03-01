@@ -1,4 +1,5 @@
 import { globalLogger as logger } from './Logger.js';
+import { getCachedGroupMetadata } from '../handlers/MessageHandler.js';
 
 const permissionCache = new Map<string, { value: boolean; timestamp: number }>();
 const CACHE_TTL = 60000;
@@ -26,7 +27,7 @@ export async function isAdmin(bot: any, chatId: string, userId: string): Promise
         const sock = bot.ws || bot.sock || bot;
         let groupMetadata;
         try {
-            groupMetadata = typeof bot.groupMetadata === 'function' ? await bot.groupMetadata(chatId) : await sock.groupMetadata(chatId);
+            groupMetadata = await getCachedGroupMetadata(sock, chatId);
         } catch (metaError: any) {
             logger.warn(`[isAdmin] Failed to get metadata: ${metaError.message}`);
             return false;
@@ -54,7 +55,7 @@ export async function isBotAdmin(bot: any, chatId: string): Promise<boolean> {
         const sock = bot.ws || bot.sock || bot;
         let groupMetadata;
         try {
-            groupMetadata = typeof bot.groupMetadata === 'function' ? await bot.groupMetadata(chatId) : await sock.groupMetadata(chatId);
+            groupMetadata = await getCachedGroupMetadata(sock, chatId);
         } catch (metaError) { return false; }
         if (!groupMetadata || !groupMetadata.participants) return false;
         const user = sock.user;
@@ -78,7 +79,7 @@ export async function getGroupPermissions(bot: any, chatId: string) {
         const sock = bot.ws || bot.sock || bot;
         let groupMetadata;
         try {
-            groupMetadata = typeof bot.groupMetadata === 'function' ? await bot.groupMetadata(chatId) : await sock.groupMetadata(chatId);
+            groupMetadata = await getCachedGroupMetadata(sock, chatId);
         } catch (metaError) { return { admins: [], superadmins: [], participants: [] }; }
         if (!groupMetadata || !groupMetadata.participants) return { admins: [], superadmins: [], participants: [] };
         const admins: string[] = [], superadmins: string[] = [], participants: string[] = [];
@@ -103,7 +104,7 @@ export async function findParticipant(bot: any, chatId: string, userId: string) 
         const normalizedId = normalizeUserId(userId);
         let groupMetadata;
         try {
-            groupMetadata = typeof bot.groupMetadata === 'function' ? await bot.groupMetadata(chatId) : await sock.groupMetadata(chatId);
+            groupMetadata = await getCachedGroupMetadata(sock, chatId);
         } catch (metaError) { return null; }
         if (!groupMetadata || !groupMetadata.participants) return null;
         return groupMetadata.participants.find((p: any) => {

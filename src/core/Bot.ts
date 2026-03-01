@@ -77,13 +77,12 @@ export class Bot {
         memoryManager.on('cleanup', () => SafeDownloader.cleanupTempFiles());
         SafeDownloader.purgeAllTempFiles();
         
-        logger.info('ꕢ Loading GachaService...');
-        await this.services.gachaService.load();
-        logger.info('ꕣ GachaService loaded');
-        
-        logger.info('ꕢ Loading TokenService...');
-        await this.services.tokenService.load();
-        logger.info('ꕣ TokenService loaded');
+        logger.info('ꕢ Loading GachaService + TokenService in parallel...');
+        await Promise.all([
+            this.services.gachaService.load(),
+            this.services.tokenService.load()
+        ]);
+        logger.info('ꕣ GachaService + TokenService loaded');
         logger.info('ꕣ Servicios inicializados');
     }
 

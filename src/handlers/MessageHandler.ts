@@ -10,6 +10,30 @@ const getWapi = async () => {
     return wapiModule;
 };
 
+// Shared groupMetadata cache (60s TTL)
+const groupMetadataCache = new Map<string, { data: any; ts: number }>();
+const GROUP_META_TTL = 60000;
+
+async function getCachedGroupMetadata(sock: any, chatId: string): Promise<any> {
+    const cached = groupMetadataCache.get(chatId);
+    if (cached && Date.now() - cached.ts < GROUP_META_TTL) return cached.data;
+    try {
+        const meta = await sock.groupMetadata(chatId);
+        groupMetadataCache.set(chatId, { data: meta, ts: Date.now() });
+        return meta;
+    } catch { return null; }
+}
+
+// Periodically clean expired group metadata
+setInterval(() => {
+    const now = Date.now();
+    for (const [k, v] of groupMetadataCache) {
+        if (now - v.ts > GROUP_META_TTL) groupMetadataCache.delete(k);
+    }
+}, 30000);
+
+export { getCachedGroupMetadata };
+
 export class MessageHandler {
     dbService: any;
     gachaService: any;
@@ -114,8 +138,8 @@ export class MessageHandler {
                 if (senderPhone) sender = `${senderPhone}@s.whatsapp.net`;
                 else if (chatId.endsWith('@g.us') && lidMatch) {
                     try {
-                        const groupMetadata = await bot.ws.groupMetadata(chatId);
-                        const participant = groupMetadata.participants.find((p: any) => p.lid === sender || p.id === sender);
+                        const groupMeta = await getCachedGroupMetadata(bot.ws, chatId);
+                        const participant = groupMeta?.participants?.find((p: any) => p.lid === sender || p.id === sender);
                         if (participant && participant.id && !participant.id.includes('@lid')) {
                             sender = participant.id;
                             senderPhone = sender.split('@')[0];
@@ -130,11 +154,12 @@ export class MessageHandler {
             const isGroup = chatId.endsWith('@g.us');
             const isOwnerSender = isOwner(sender);
 
+            // Build context WITHOUT loading user data yet (lazy)
             const ctx: any = {
                 bot: {
                     sendMessage: async (jid: string, content: any, options: any) => await bot.ws.sendMessage(jid, content, options),
                     sock: bot.ws,
-                    groupMetadata: async (jid: string) => await bot.ws.groupMetadata(jid),
+                    groupMetadata: async (jid: string) => getCachedGroupMetadata(bot.ws, jid),
                     groupParticipantsUpdate: async (jid: string, participants: any[], action: any) => await bot.ws.groupParticipantsUpdate(jid, participants, action)
                 },
                 msg: m,
@@ -185,21 +210,27 @@ export class MessageHandler {
                     const msg = message || m;
                     const type = Object.keys(msg.message)[0];
                     const stream = await downloadContentFromMessage(msg.message[type], type.replace('Message', ''));
-                    let buffer = Buffer.from([]);
-                    for await (const chunk of stream) buffer = Buffer.concat([buffer, chunk]);
-                    return buffer;
+                    const chunks: Buffer[] = [];
+                    for await (const chunk of stream) chunks.push(chunk);
+                    return Buffer.concat(chunks);
                 },
                 prefix: this.PREFIX
             };
 
-            const lastXp = this.cacheManager.get(`xp_${sender}`);
-            if (!lastXp && text.length > 3) {
-                const xpAmount = Math.floor(Math.random() * 6) + 5;
-                this.levelService.addXp(sender, xpAmount).then((res: any) => {
-                    if (res.leveledUp) ctx.reply(styleText(`🎉 *¡SUBISTE DE NIVEL!*\n\n> Nivel: *${res.currentLevel}*`));
-                }).catch((e: any) => logger.error('XP Error:', e));
-                this.cacheManager.set(`xp_${sender}`, true, 30);
+            // --- Fast exit: skip non-command messages early ---
+            const prefix = PREFIXES.find(p => text.startsWith(p));
+            if (!text || !prefix) {
+                // Passive XP for non-command messages (fire-and-forget, no await)
+                const lastXp = this.cacheManager.get(`xp_${sender}`);
+                if (!lastXp && text.length > 3) {
+                    const xpAmount = Math.floor(Math.random() * 6) + 5;
+                    this.levelService.addXp(sender, xpAmount).catch((e: any) => logger.error('XP Error:', e));
+                    this.cacheManager.set(`xp_${sender}`, true, 30);
+                }
+                return;
             }
+
+            ctx.userData = await this.dbService.getUser(sender, senderLid);
 
             if ((global as any).beforeHandlers?.length > 0) {
                 const results = await Promise.allSettled((global as any).beforeHandlers.map(({ handler, plugin }: any) => handler(ctx).catch((err: any) => {
@@ -210,9 +241,6 @@ export class MessageHandler {
                     if (result.status === 'rejected') logger.error(`Before handler ${(global as any).beforeHandlers[idx].plugin} failed`);
                 });
             }
-
-            const prefix = PREFIXES.find(p => text.startsWith(p));
-            if (!text || !prefix) return;
 
             if (!isGroup && (global as any).db?.settings?.antiPrivado) {
                 const isOwner = sender.split('@')[0] === (global as any).tokenService.OWNER_JID?.split('@')[0] || m.key.fromMe;
@@ -276,6 +304,7 @@ export class MessageHandler {
 
             await commandData.execute(ctx);
 
+            // Single post-command DB update (stats + XP combined)
             if (!ctx.userData.stats) ctx.userData.stats = {};
             const newCommands = (ctx.userData.stats.commands || 0) + 1;
             ctx.userData.stats.commands = newCommands;
@@ -284,11 +313,13 @@ export class MessageHandler {
             const updates: any = { 'stats.commands': newCommands };
             if (pushName && ctx.userData.name !== pushName) updates.name = pushName;
 
-            await this.dbService.updateUser(sender, updates);
-
+            // Fire-and-forget: don't await DB write + XP (non-blocking)
+            this.dbService.updateUser(sender, updates).catch((e: any) => logger.error('Stats update error:', e));
             if (this.levelService) {
                 const xpAmount = Math.floor(Math.random() * 25) + 10;
-                await this.levelService.addXp(sender, xpAmount);
+                this.levelService.addXp(sender, xpAmount).then((res: any) => {
+                    if (res?.leveledUp) ctx.reply(styleText(`🎉 *¡SUBISTE DE NIVEL!*\n\n> Nivel: *${res.currentLevel}*`));
+                }).catch((e: any) => logger.error('XP Error:', e));
             }
         } catch (error) {
             logger.error('ꕢ Error procesando mensaje:', error);
