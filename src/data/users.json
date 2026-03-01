@@ -1,0 +1,3547 @@
+[
+  {
+    "id": "170893057728762@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [
+        {
+          "id": "81",
+          "name": "Momo Yaoyorozu",
+          "claimedAt": 1764038305122
+        }
+      ],
+      "lastClaim": 1764038305122,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "createdAt": "2025-11-25T02:37:17.833Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "b89a1c2c-545a-4900-8e5f-4840e3ca7f3b",
+    "updatedAt": "2025-11-25T02:37:32.384Z",
+    "$set": {
+      "economy.lastWork": 1764038252349,
+      "economy.coins": 127
+    }
+  },
+  {
+    "id": "71781889105944@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "createdAt": "2025-11-25T03:50:46.033Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "408c2120-bf86-4e6a-b5b6-8463104e06e8",
+    "updatedAt": "2025-11-25T03:50:46.033Z"
+  },
+  {
+    "id": "35893410820331@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "createdAt": "2025-11-25T04:00:34.668Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "69f0a8ba-8a00-4170-9145-15c35819e04d",
+    "updatedAt": "2025-11-25T04:00:34.668Z"
+  },
+  {
+    "id": "68964910682215@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "createdAt": "2025-11-25T04:00:34.825Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "9905e5d9-f70a-4181-ab00-5535f4dfbe34",
+    "updatedAt": "2025-11-25T04:00:34.825Z"
+  },
+  {
+    "id": "55143370383469@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "createdAt": "2025-11-25T04:00:35.004Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "4c7277b1-890a-4a92-abf6-05944b829efb",
+    "updatedAt": "2025-11-25T04:00:35.004Z"
+  },
+  {
+    "id": "573209287160@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "createdAt": "2025-11-25T04:19:03.037Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "08994679-8953-426c-a93f-c0c5564fe89c",
+    "updatedAt": "2025-11-25T04:19:03.037Z"
+  },
+  {
+    "id": "176918947172399@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "createdAt": "2025-11-25T04:21:21.890Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "84ed3b58-dfe9-4329-8d02-adeace975907",
+    "updatedAt": "2025-11-25T04:21:21.890Z"
+  },
+  {
+    "id": "235674166886522@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "createdAt": "2025-11-25T04:21:22.604Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "fb54a63b-e2fd-48df-bcc7-7f8dbcfbeea9",
+    "updatedAt": "2025-11-25T04:21:22.604Z"
+  },
+  {
+    "id": "120363403923528751@g.us",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "createdAt": "2025-11-25T04:21:36.834Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "50f401cd-500b-428c-aef0-70a8492cf13b",
+    "updatedAt": "2025-11-25T04:21:36.834Z"
+  },
+  {
+    "id": "216591576920253@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "createdAt": "2025-11-25T04:23:07.350Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "0c64ef61-a588-4050-9d9c-8fe28d934ec5",
+    "updatedAt": "2025-11-25T04:23:07.350Z"
+  },
+  {
+    "id": "573115434166@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 1
+    },
+    "createdAt": "2025-11-25T04:24:48.425Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "2058c216-6c2f-4d07-85c5-c3f8be57b32e",
+    "updatedAt": "2026-01-16T22:04:31.158Z",
+    "level": {
+      "xp": 57,
+      "lvl": 2,
+      "lastXp": 0
+    }
+  },
+  {
+    "id": "255619391082711@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "createdAt": "2025-11-25T04:33:57.575Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "2ba5929a-685b-4fdc-be21-39491d39220b",
+    "updatedAt": "2025-11-25T04:33:57.575Z"
+  },
+  {
+    "id": "250633470898294@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "createdAt": "2025-11-25T04:36:27.147Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "02478bd9-ce44-4dcc-adb8-a5fbb9f39902",
+    "updatedAt": "2025-11-25T04:36:27.147Z"
+  },
+  {
+    "id": "58935558013137@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "createdAt": "2025-11-25T04:37:39.041Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "a47dba3e-c4c5-4455-86f1-428634de820d",
+    "updatedAt": "2025-11-25T04:37:39.041Z"
+  },
+  {
+    "id": "144577289805867@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "createdAt": "2025-11-25T04:39:04.952Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "9cb3d60b-77a8-4218-9b31-82f112f4b31c",
+    "updatedAt": "2025-11-25T04:39:04.952Z"
+  },
+  {
+    "id": "243375060066392@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "createdAt": "2025-11-25T04:39:27.868Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "9955f289-f6cc-4647-ad39-9107af219bcb",
+    "updatedAt": "2025-11-25T04:39:27.868Z"
+  },
+  {
+    "id": "152007784558621@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "createdAt": "2025-11-25T04:40:36.983Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "4498561b-511a-47d3-9b17-6dcc3476cfc3",
+    "updatedAt": "2025-11-25T04:40:36.983Z"
+  },
+  {
+    "id": "266219840118962@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "createdAt": "2025-11-25T04:47:26.292Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "f33fdba1-dc97-41d8-9df7-a7861a1b3ccd",
+    "updatedAt": "2025-11-25T04:47:26.292Z"
+  },
+  {
+    "id": "217265215692973@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "createdAt": "2025-11-25T04:54:21.688Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "0745658d-62bd-4a7f-a2d5-ea82dd0b9c26",
+    "updatedAt": "2025-11-25T04:54:21.688Z"
+  },
+  {
+    "id": "239754268389439@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [
+        {
+          "id": "307",
+          "name": "Kayoko",
+          "claimedAt": 1764047058450
+        }
+      ],
+      "lastClaim": 1764047058450,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "createdAt": "2025-11-25T05:04:04.534Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "7fc80551-ba5a-4040-9059-2ee04183ed83",
+    "updatedAt": "2025-11-25T05:04:04.534Z"
+  },
+  {
+    "id": "114169391132897@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "createdAt": "2025-11-25T05:05:28.837Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "d4c5551d-e9cf-465c-90fb-444f5a237667",
+    "updatedAt": "2025-11-25T05:05:28.837Z"
+  },
+  {
+    "id": "41356860883081@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "createdAt": "2025-11-25T05:05:39.850Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "3d8c8833-b780-4d8b-9317-221b928348c7",
+    "updatedAt": "2025-11-25T05:05:39.850Z"
+  },
+  {
+    "id": "50662907002@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 39,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:40:35.350Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "d4b6a40f-0be9-4d56-82e0-a475f877d5dd",
+    "updatedAt": "2026-01-16T20:54:45.038Z"
+  },
+  {
+    "id": "584142424614@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 7
+    },
+    "level": {
+      "xp": 109,
+      "lvl": 2,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:40:35.351Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "5c495a04-3754-46d1-b8ab-d2fed2cda216",
+    "updatedAt": "2026-01-16T22:02:55.102Z"
+  },
+  {
+    "id": "584128248456@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 6,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:40:35.351Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "afab3fc5-6821-4de5-b9f5-3c2d05bb0568",
+    "updatedAt": "2026-01-16T20:40:35.352Z"
+  },
+  {
+    "id": "15055045329@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 5,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:40:51.975Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "16ba647e-7679-4e4d-85b5-d503ea40f3bb",
+    "updatedAt": "2026-01-16T22:01:54.392Z"
+  },
+  {
+    "id": "819095203873@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 6
+    },
+    "level": {
+      "xp": 238,
+      "lvl": 2,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:40:55.990Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "24686104-1806-46ae-a31f-fc8c272dc519",
+    "updatedAt": "2026-01-16T22:06:52.710Z"
+  },
+  {
+    "id": "5359047235@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 37,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:41:07.879Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "4b54f382-300e-4fbf-a9ec-fe30175b552c",
+    "updatedAt": "2026-01-16T21:23:05.939Z"
+  },
+  {
+    "id": "593969587203@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:41:19.233Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "c40c8117-9a41-4e47-a3f5-cff003783379",
+    "updatedAt": "2026-01-16T20:41:19.233Z"
+  },
+  {
+    "id": "50671598139@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 10,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:41:32.683Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "5e9bd027-e2de-4885-af7d-8f1ac6428139",
+    "updatedAt": "2026-01-16T20:47:37.307Z"
+  },
+  {
+    "id": "51919053708@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 1
+    },
+    "level": {
+      "xp": 16,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:41:44.094Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "dd0d06ad-44ab-46d6-972c-66559e135731",
+    "updatedAt": "2026-01-16T21:34:23.650Z"
+  },
+  {
+    "id": "59178437347@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 23,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:42:04.824Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "33199b58-8501-4ca4-9f3e-bc401fb76cd1",
+    "updatedAt": "2026-01-16T21:19:23.087Z"
+  },
+  {
+    "id": "5217641169540@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:42:05.319Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "31b58338-0bf1-4a3a-a6f4-49cc539050e5",
+    "updatedAt": "2026-01-16T20:42:05.319Z"
+  },
+  {
+    "id": "51908931387@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:42:50.833Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "57a271cc-88d9-475a-b4e1-89235b4f0489",
+    "updatedAt": "2026-01-16T20:42:50.833Z"
+  },
+  {
+    "id": "5491136883904@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 6,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:43:23.781Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "e3aace7c-82fd-4f33-81b3-9c385d7fa99e",
+    "updatedAt": "2026-01-16T20:43:23.781Z"
+  },
+  {
+    "id": "5491171422620@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 52,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:43:34.637Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "dd0516f1-967d-4dee-a32a-cd5b60cc08fa",
+    "updatedAt": "2026-01-16T22:16:24.650Z"
+  },
+  {
+    "id": "5492665244407@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 24,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:43:43.117Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "9a945d35-2c4c-463e-a809-37d27be094c1",
+    "updatedAt": "2026-01-16T21:20:11.355Z"
+  },
+  {
+    "id": "573237649689@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 2
+    },
+    "level": {
+      "xp": 34,
+      "lvl": 3,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:44:02.090Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "c6d0a13f-a823-4bda-97a0-5a09f4af7464",
+    "updatedAt": "2026-01-16T22:07:15.020Z"
+  },
+  {
+    "id": "51910350951@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:44:26.535Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "9a70dfe9-9000-4bdc-9c53-7b4b8f0a3749",
+    "updatedAt": "2026-01-16T20:44:26.535Z"
+  },
+  {
+    "id": "51932632002@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 13,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:45:58.173Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "0074a5aa-0f24-49ac-9eda-60a539245951",
+    "updatedAt": "2026-01-16T20:46:39.199Z"
+  },
+  {
+    "id": "50578674136@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:46:06.137Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "c5be5a24-629b-4484-9b56-004e86e7e56c",
+    "updatedAt": "2026-01-16T20:46:06.137Z"
+  },
+  {
+    "id": "5491138745971@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 12,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:46:26.563Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "00e36980-5670-4a6c-b888-3c6fb17f912c",
+    "updatedAt": "2026-01-16T20:47:23.357Z"
+  },
+  {
+    "id": "56964390817@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:46:27.284Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "51182569-a0b1-4763-b119-65af7d8e0f2a",
+    "updatedAt": "2026-01-16T20:46:27.284Z"
+  },
+  {
+    "id": "5216691513417@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:46:29.251Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "f80c33e8-7064-4586-9142-9574811d8dd0",
+    "updatedAt": "2026-01-16T20:46:29.251Z"
+  },
+  {
+    "id": "573013751308@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 3
+    },
+    "level": {
+      "xp": 32,
+      "lvl": 2,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:46:32.255Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "3be99c92-4145-419f-9096-b352a0fd1e38",
+    "updatedAt": "2026-01-16T21:12:31.686Z"
+  },
+  {
+    "id": "573226128241@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 55,
+      "lvl": 2,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:47:05.715Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "8f31e536-0523-401c-8b7b-06c23ba83816",
+    "updatedAt": "2026-01-16T22:04:40.886Z"
+  },
+  {
+    "id": "5493516508500@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 38,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:47:07.386Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "04dc04a0-39c8-4b54-92f4-b3443adc0de6",
+    "updatedAt": "2026-01-16T21:40:26.532Z"
+  },
+  {
+    "id": "584161296622@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 21,
+      "lvl": 2,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:47:28.634Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "7864dd81-4a70-48e0-afc4-8d5228ee204f",
+    "updatedAt": "2026-01-16T21:40:37.387Z"
+  },
+  {
+    "id": "573102514626@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 42,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:47:47.649Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "7af23028-5d8c-4a61-a527-acebb6b5739e",
+    "updatedAt": "2026-01-16T21:09:49.281Z"
+  },
+  {
+    "id": "5218146398503@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 83,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:48:25.402Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "e9c5a954-f139-4647-9976-c4d1f95d9143",
+    "updatedAt": "2026-01-16T22:04:19.599Z"
+  },
+  {
+    "id": "5214121899621@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 49,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:48:40.368Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "cf53aba5-7cd5-499f-9f37-76dd525894f3",
+    "updatedAt": "2026-01-16T21:35:02.898Z"
+  },
+  {
+    "id": "5216563737952@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 49,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:48:52.084Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "354a1b94-ed01-407c-b8e0-e2fc71b0ebbd",
+    "updatedAt": "2026-01-16T20:59:37.446Z"
+  },
+  {
+    "id": "5493718468873@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 9,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:49:11.469Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "36a99078-39ac-4061-8106-b00e67fd32af",
+    "updatedAt": "2026-01-16T20:49:11.469Z"
+  },
+  {
+    "id": "5491128944377@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:49:15.571Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "96fc67a0-41e0-45cd-8fc6-c9d85f638fda",
+    "updatedAt": "2026-01-16T20:49:15.571Z"
+  },
+  {
+    "id": "5492613451694@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 25,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:49:16.017Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "935f31ca-2b69-483d-bfc9-b2e464cc1c6b",
+    "updatedAt": "2026-01-16T21:40:40.928Z"
+  },
+  {
+    "id": "5216391161967@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 62,
+      "lvl": 2,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:49:27.192Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "7e6c5929-62d3-4f0d-9c3a-8072c6a73d11",
+    "updatedAt": "2026-01-16T21:43:59.157Z"
+  },
+  {
+    "id": "56981562067@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:49:51.397Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "a06f663b-954d-497d-8e36-b739d754e105",
+    "updatedAt": "2026-01-16T20:49:51.397Z"
+  },
+  {
+    "id": "5212491413120@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 5,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:50:24.943Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "3b866bc0-9953-48ec-9775-f2e0b6b89a48",
+    "updatedAt": "2026-01-16T20:50:43.741Z"
+  },
+  {
+    "id": "5493512182781@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 14,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:50:34.852Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "a89ea505-4a0f-41d3-9a9c-193d31eb48fc",
+    "updatedAt": "2026-01-16T20:51:34.716Z"
+  },
+  {
+    "id": "573146917491@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:51:02.469Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "4d276806-4c0c-4ea4-ae6b-d316cd8eed02",
+    "updatedAt": "2026-01-16T20:51:02.469Z"
+  },
+  {
+    "id": "5215656750330@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:52:15.323Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "8857de9d-3c14-46d5-a01b-64629f171ad2",
+    "updatedAt": "2026-01-16T20:52:15.323Z"
+  },
+  {
+    "id": "5493794763729@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 10,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:52:53.364Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "985770bd-2d10-44a3-af4c-064482518cf6",
+    "updatedAt": "2026-01-16T20:52:53.364Z"
+  },
+  {
+    "id": "50661410344@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 8,
+      "lvl": 2,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:53:32.572Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "7fcad493-d3f7-4b04-8c22-03bcbac00503",
+    "updatedAt": "2026-01-16T22:04:19.578Z"
+  },
+  {
+    "id": "59897740420@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 224,
+      "lvl": 2,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:54:10.134Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "64afced7-5854-458a-b359-fdaf5dc50d0d",
+    "updatedAt": "2026-01-16T22:15:57.943Z"
+  },
+  {
+    "id": "5492235278281@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 5,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:54:44.555Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "022813e5-7612-42bb-a713-ae00d135c138",
+    "updatedAt": "2026-01-16T20:54:44.555Z"
+  },
+  {
+    "id": "5493548553698@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:56:18.051Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "9d6248fc-60ad-4ca6-957c-f81a869c8bcf",
+    "updatedAt": "2026-01-16T20:56:18.051Z"
+  },
+  {
+    "id": "5492617493820@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T20:57:02.513Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "ba8a5751-316f-4946-80e4-c6198c52b90e",
+    "updatedAt": "2026-01-16T20:57:02.513Z"
+  },
+  {
+    "id": "51935923159@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:00:13.130Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "fa697c13-a490-448e-9cfc-786200b1c46b",
+    "updatedAt": "2026-01-16T21:00:13.130Z"
+  },
+  {
+    "id": "573223552658@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 13,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:00:23.022Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "75ca5c22-0409-4939-aaca-70c892ea1549",
+    "updatedAt": "2026-01-16T21:01:06.413Z"
+  },
+  {
+    "id": "56975198057@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 59,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:01:28.641Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "f623937b-5f2e-41c5-9d4b-d40de5c5317d",
+    "updatedAt": "2026-01-16T21:32:24.612Z"
+  },
+  {
+    "id": "50241821332@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 33,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:02:50.132Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "5e9b4251-1138-45f1-b6a5-887c0ec584b6",
+    "updatedAt": "2026-01-16T21:19:37.421Z"
+  },
+  {
+    "id": "573106552974@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:05:43.609Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "0bf8ff33-aa53-4048-ba10-cd15357b33da",
+    "updatedAt": "2026-01-16T21:05:43.609Z"
+  },
+  {
+    "id": "5214623529887@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 17,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:05:45.719Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "0f7d1fd5-c197-48f6-9cf0-345274b996bd",
+    "updatedAt": "2026-01-16T21:18:35.451Z"
+  },
+  {
+    "id": "5491165642778@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 21,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:05:50.165Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "08a1b734-979c-4a81-a340-ca2f65d32fa0",
+    "updatedAt": "2026-01-16T21:13:12.556Z"
+  },
+  {
+    "id": "595984017086@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:06:30.138Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "c80c84ca-6173-45c2-802e-80a78ebfb31c",
+    "updatedAt": "2026-01-16T21:06:30.138Z"
+  },
+  {
+    "id": "51910055620@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:06:50.808Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "f11c8389-65c9-43bb-b907-72b39fb77d0e",
+    "updatedAt": "2026-01-16T21:06:50.808Z"
+  },
+  {
+    "id": "5216678898527@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 10,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:07:28.561Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "99b890df-07fa-49f8-b10a-b1c3fc16f697",
+    "updatedAt": "2026-01-16T21:07:56.998Z"
+  },
+  {
+    "id": "5491171885032@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 58,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:08:57.337Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "6957a8ae-bfe1-47ff-80a3-0e2be54fbf16",
+    "updatedAt": "2026-01-16T21:14:47.853Z"
+  },
+  {
+    "id": "5491140926064@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 36,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:09:14.767Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "3c8be0df-98f5-4d12-bff3-5f8f7749f09a",
+    "updatedAt": "2026-01-16T21:17:33.133Z"
+  },
+  {
+    "id": "5492212014847@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:09:52.138Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "20b2a69b-bde9-470c-acab-fa195f89eb8f",
+    "updatedAt": "2026-01-16T21:09:52.138Z"
+  },
+  {
+    "id": "5493625210682@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 25,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:11:03.786Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "1f62455a-9225-4aab-ab68-0c4592f7dc46",
+    "updatedAt": "2026-01-16T21:15:00.640Z"
+  },
+  {
+    "id": "5491126313430@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 7,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:14:09.914Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "2cd50bf9-52b0-49f6-a7ad-9a77b27f5d40",
+    "updatedAt": "2026-01-16T21:14:10.447Z"
+  },
+  {
+    "id": "5491134082404@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:14:38.947Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "1d8425e9-6adc-410a-992f-990ed11c64ce",
+    "updatedAt": "2026-01-16T21:14:38.947Z"
+  },
+  {
+    "id": "51993895090@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 1
+    },
+    "level": {
+      "xp": 9,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:14:46.454Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "c8774cc4-3066-46dc-afc1-4f77b48b3799",
+    "updatedAt": "2026-01-16T21:17:02.333Z"
+  },
+  {
+    "id": "584246003607@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:16:09.490Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "eb8cc350-ed4c-4bad-86bc-c40bd45e7bd2",
+    "updatedAt": "2026-01-16T21:16:09.490Z"
+  },
+  {
+    "id": "5492617524380@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:19:23.051Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "9e18d4bd-3f94-4564-a02b-f755627bde30",
+    "updatedAt": "2026-01-16T21:19:23.051Z"
+  },
+  {
+    "id": "5218117062699@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 22,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:19:55.085Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "bddbcd36-616c-4814-9218-2e5f07177b6c",
+    "updatedAt": "2026-01-16T21:22:20.550Z"
+  },
+  {
+    "id": "5213311336310@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 1
+    },
+    "level": {
+      "xp": 20,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:24:20.407Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "6978adde-4b90-4c08-9b43-391e592d8e25",
+    "updatedAt": "2026-01-16T21:30:48.974Z"
+  },
+  {
+    "id": "5491132023844@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 6,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:26:37.573Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "3bf385c9-063e-4be8-84b2-267cad8706a3",
+    "updatedAt": "2026-01-16T21:50:12.163Z"
+  },
+  {
+    "id": "51926957385@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:27:13.242Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "f2a28c9f-7f80-4892-a8d6-a9fcaebdd531",
+    "updatedAt": "2026-01-16T21:27:13.242Z"
+  },
+  {
+    "id": "5214498938719@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 5,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:27:40.231Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "6f3ffc1f-7df1-470f-ac26-72a7ea6a66f4",
+    "updatedAt": "2026-01-16T21:27:46.483Z"
+  },
+  {
+    "id": "5493884739710@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:28:19.475Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "4c46d1c8-dea1-4e77-a11d-5230af122145",
+    "updatedAt": "2026-01-16T21:28:19.475Z"
+  },
+  {
+    "id": "221019604258938@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:34:57.878Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "7eb9a1f7-9626-416a-91c7-972821e90397",
+    "updatedAt": "2026-01-16T21:34:57.878Z"
+  },
+  {
+    "id": "5493773541308@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 5,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:35:01.697Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "ceea1d2f-a6df-4950-9fe9-9020f2d06278",
+    "updatedAt": "2026-01-16T21:37:13.368Z"
+  },
+  {
+    "id": "50253714359@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:36:25.085Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "f71c1d68-7379-4b3d-8bd9-386888d07daf",
+    "updatedAt": "2026-01-16T21:36:25.085Z"
+  },
+  {
+    "id": "5493516563530@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:37:41.305Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "7b97e024-e724-4fa2-9784-5a94b57df940",
+    "updatedAt": "2026-01-16T21:37:41.305Z"
+  },
+  {
+    "id": "82803244945463@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:38:06.503Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "e962eb60-553f-42f2-999c-8656aa3dbcb8",
+    "updatedAt": "2026-01-16T21:38:06.503Z"
+  },
+  {
+    "id": "5493878323886@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 2
+    },
+    "level": {
+      "xp": 19,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:39:23.354Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "1c254ec5-950a-4abd-b972-b169a1652ddd",
+    "updatedAt": "2026-01-16T21:42:23.730Z",
+    "profile": {
+      "birthday": "22/05/1999"
+    }
+  },
+  {
+    "id": "584124366798@s.whatsapp.net",
+    "economy": {
+      "coins": 10573,
+      "bank": 14329,
+      "lastDaily": 1768599612399,
+      "lastWork": 1768599605309,
+      "lastCrime": 1768599632678,
+      "lastSlut": 1768599619086,
+      "dailyStreak": 1,
+      "lastFish": 1768599838834,
+      "fishCaught": 2
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 32
+    },
+    "level": {
+      "xp": 70,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:39:37.966Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "d6f78294-5412-4001-8239-9e61e7e06f05",
+    "updatedAt": "2026-01-16T21:45:21.807Z"
+  },
+  {
+    "id": "5219671612367@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:40:12.335Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "d7700826-dea2-422d-a98e-6d600d8bf80f",
+    "updatedAt": "2026-01-16T21:40:12.335Z"
+  },
+  {
+    "id": "51976367858@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:41:30.634Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "85420dca-31c2-45b2-8468-d08cb476a17f",
+    "updatedAt": "2026-01-16T21:41:30.634Z"
+  },
+  {
+    "id": "5492617228816@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:41:50.567Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "111bdf6f-fe29-4470-88f2-551dce18efb0",
+    "updatedAt": "2026-01-16T21:41:50.567Z"
+  },
+  {
+    "id": "5214428809790@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {},
+      "rolled": "311",
+      "lastRoll": 1768599728924
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 2
+    },
+    "level": {
+      "xp": 18,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:42:02.405Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "39530af5-0598-4051-8f72-ad680160cad8",
+    "updatedAt": "2026-01-16T21:43:46.715Z"
+  },
+  {
+    "id": "5216862164180@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 9,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:42:24.920Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "b96e331c-d757-428d-a019-1cc694d64454",
+    "updatedAt": "2026-01-16T21:42:28.468Z"
+  },
+  {
+    "id": "584142206618@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 2
+    },
+    "level": {
+      "xp": 16,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:45:22.412Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "e58c9cdb-4c2a-459d-9b02-04646f7072d6",
+    "updatedAt": "2026-01-16T21:47:12.145Z"
+  },
+  {
+    "id": "51927897293@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 2
+    },
+    "level": {
+      "xp": 27,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:50:09.521Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "41dd00a5-5881-4e07-b2d7-93329c3192e3",
+    "updatedAt": "2026-01-16T22:11:03.111Z"
+  },
+  {
+    "id": "5491126650371@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:52:00.291Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "7741b14c-3fcf-4275-be7b-1a8b18efe1ac",
+    "updatedAt": "2026-01-16T21:52:00.291Z"
+  },
+  {
+    "id": "56968422922@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:56:59.750Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "0e38dd96-72ce-406b-b1f8-964cd73f955b",
+    "updatedAt": "2026-01-16T21:56:59.750Z"
+  },
+  {
+    "id": "5214445112910@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T21:58:55.991Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "45aeb818-b960-42a5-9114-0b69c23f1f58",
+    "updatedAt": "2026-01-16T21:58:55.991Z"
+  },
+  {
+    "id": "5216641784469@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 11,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T22:03:22.128Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "371ebf7f-f038-47d5-87a9-74d5638088b9",
+    "updatedAt": "2026-01-16T22:04:40.770Z"
+  },
+  {
+    "id": "12494794534@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 28,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T22:08:46.978Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "6e7e0fee-d1a7-4d21-8970-bc50a33e89da",
+    "updatedAt": "2026-01-16T22:17:30.312Z"
+  },
+  {
+    "id": "5493815794778@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T22:11:14.062Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "f22ca79a-8f1d-4710-8a2c-bccac9bcdbc6",
+    "updatedAt": "2026-01-16T22:11:14.062Z"
+  },
+  {
+    "id": "5218144901332@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 8,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T22:13:29.505Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "f215fb87-4d10-4e94-9627-7857954bf8fa",
+    "updatedAt": "2026-01-16T22:13:31.366Z"
+  },
+  {
+    "id": "5219514607237@s.whatsapp.net",
+    "economy": {
+      "coins": 0,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastSlut": 0
+    },
+    "gacha": {
+      "characters": [],
+      "lastClaim": 0,
+      "votes": {}
+    },
+    "stats": {
+      "messages": 0,
+      "commands": 0
+    },
+    "level": {
+      "xp": 0,
+      "lvl": 1,
+      "lastXp": 0
+    },
+    "inventory": [],
+    "createdAt": "2026-01-16T22:13:42.916Z",
+    "monedas": 0,
+    "antirobo": 0,
+    "desbloqueo": 0,
+    "__uuid": "d4d88dbe-607d-4a61-bf92-b531abe8c806",
+    "updatedAt": "2026-01-16T22:13:42.916Z"
+  }
+]

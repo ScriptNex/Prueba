@@ -1,0 +1,460 @@
+[
+  {
+    "id": "120363425971920781@g.us",
+    "settings": {
+      "welcome": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "fe7756af-e3b1-46ba-b4e3-ad627ac43413",
+    "updatedAt": "2025-11-25T02:37:17.837Z",
+    "createdAt": "2025-11-25T02:37:17.837Z"
+  },
+  {
+    "id": "120363421362426518@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "8c99f97b-b9d2-4e7d-8512-9351886ccf3b",
+    "updatedAt": "2026-01-16T20:40:35.350Z",
+    "createdAt": "2026-01-16T20:40:35.350Z"
+  },
+  {
+    "id": "120363402719095160@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "d12a291e-96ac-447e-a267-21c3a2cb9932",
+    "updatedAt": "2026-01-16T20:40:35.351Z",
+    "createdAt": "2026-01-16T20:40:35.351Z"
+  },
+  {
+    "id": "120363404568964401@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "2a28657f-e83d-445b-84a0-16989b9d639a",
+    "updatedAt": "2026-01-16T20:43:23.781Z",
+    "createdAt": "2026-01-16T20:43:23.781Z"
+  },
+  {
+    "id": "120363192727893876@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "0b6a96a8-2e55-475a-8c26-edd7eb9d5dfe",
+    "updatedAt": "2026-01-16T20:43:38.350Z",
+    "createdAt": "2026-01-16T20:43:38.350Z"
+  },
+  {
+    "id": "120363421800211422@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "1dafde9a-453e-4cc7-b097-d01f05d0f1ff",
+    "updatedAt": "2026-01-16T20:44:00.828Z",
+    "createdAt": "2026-01-16T20:44:00.828Z"
+  },
+  {
+    "id": "120363421700719914@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "f6c7905c-7714-4410-bed6-6f1ac1a4763b",
+    "updatedAt": "2026-01-16T20:45:05.046Z",
+    "createdAt": "2026-01-16T20:45:05.046Z"
+  },
+  {
+    "id": "120363401767712695@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "d4c5bb02-309b-41cb-9a10-b42bd4b552ee",
+    "updatedAt": "2026-01-16T20:45:05.195Z",
+    "createdAt": "2026-01-16T20:45:05.195Z"
+  },
+  {
+    "id": "120363403081386464@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "89278e71-e65d-4b38-a086-920225f08b76",
+    "updatedAt": "2026-01-16T20:45:05.223Z",
+    "createdAt": "2026-01-16T20:45:05.223Z"
+  },
+  {
+    "id": "120363150804260030@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "0aecf614-3059-4e53-8a0a-d38c92b6f6cf",
+    "updatedAt": "2026-01-16T20:45:29.196Z",
+    "createdAt": "2026-01-16T20:45:29.196Z"
+  },
+  {
+    "id": "120363400703791711@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "49eafc5a-3216-4982-b18b-4db96ff9982f",
+    "updatedAt": "2026-01-16T20:46:40.178Z",
+    "createdAt": "2026-01-16T20:46:40.178Z"
+  },
+  {
+    "id": "120363404241588823@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "8a3cf5fb-9353-4325-aa9b-e5a5c554b12e",
+    "updatedAt": "2026-01-16T20:46:40.178Z",
+    "createdAt": "2026-01-16T20:46:40.178Z"
+  },
+  {
+    "id": "120363423299105311@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "7f6750fd-1ec7-4522-b3ca-a1c20764bf27",
+    "updatedAt": "2026-01-16T20:47:07.387Z",
+    "createdAt": "2026-01-16T20:47:07.387Z"
+  },
+  {
+    "id": "120363422435893087@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "eaf67fbd-2423-44c2-b5c7-74ef337be856",
+    "updatedAt": "2026-01-16T20:49:16.017Z",
+    "createdAt": "2026-01-16T20:49:16.017Z"
+  },
+  {
+    "id": "120363405201141786@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "031410ca-bad9-4460-91ae-2e87b45b4f39",
+    "updatedAt": "2026-01-16T20:50:33.777Z",
+    "createdAt": "2026-01-16T20:50:33.777Z"
+  },
+  {
+    "id": "120363423519038339@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "a1653d44-a48c-41c2-8ebf-06f818ee566b",
+    "updatedAt": "2026-01-16T20:50:48.474Z",
+    "createdAt": "2026-01-16T20:50:48.474Z"
+  },
+  {
+    "id": "120363407374617525@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "0901beae-3ceb-4df2-867b-62bdb44c8415",
+    "updatedAt": "2026-01-16T20:57:17.563Z",
+    "createdAt": "2026-01-16T20:57:17.563Z"
+  },
+  {
+    "id": "120363422958427492@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "d58f19f1-e164-4f74-a611-16fc5b2beb32",
+    "updatedAt": "2026-01-16T20:58:11.350Z",
+    "createdAt": "2026-01-16T20:58:11.350Z"
+  },
+  {
+    "id": "120363418364995272@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "2fdb4098-1279-42ce-aa02-5e350a93fe4c",
+    "updatedAt": "2026-01-16T20:58:11.358Z",
+    "createdAt": "2026-01-16T20:58:11.358Z"
+  },
+  {
+    "id": "120363422933931664@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "90bb5af5-1638-4ddb-9066-549c41f3d557",
+    "updatedAt": "2026-01-16T20:58:11.361Z",
+    "createdAt": "2026-01-16T20:58:11.361Z"
+  },
+  {
+    "id": "120363423865237772@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "324908bb-2701-4c9a-b361-c9b0607f15ef",
+    "updatedAt": "2026-01-16T21:06:23.091Z",
+    "createdAt": "2026-01-16T21:06:23.091Z"
+  },
+  {
+    "id": "120363420020246782@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "fe0e70c6-d15e-4567-87bc-f47869fe6ef5",
+    "updatedAt": "2026-01-16T21:17:02.333Z",
+    "createdAt": "2026-01-16T21:17:02.333Z"
+  },
+  {
+    "id": "120363424729683242@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "e85d6c66-a7f9-4343-8577-d547aba6c302",
+    "updatedAt": "2026-01-16T21:20:52.139Z",
+    "createdAt": "2026-01-16T21:20:52.139Z"
+  },
+  {
+    "id": "120363164287671158@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "e568fa7c-deb7-4208-8f37-335ee8eceecd",
+    "updatedAt": "2026-01-16T21:24:20.407Z",
+    "createdAt": "2026-01-16T21:24:20.407Z"
+  },
+  {
+    "id": "120363402857695214@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "2c47d0b3-a262-4413-bb41-dac80a2f2423",
+    "updatedAt": "2026-01-16T21:36:53.939Z",
+    "createdAt": "2026-01-16T21:36:53.939Z"
+  },
+  {
+    "id": "120363423241991057@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "78f3bf93-c9f8-4763-8547-380e2433b5b3",
+    "updatedAt": "2026-01-16T21:59:50.201Z",
+    "createdAt": "2026-01-16T21:59:50.201Z"
+  },
+  {
+    "id": "120363423742961830@g.us",
+    "settings": {
+      "welcome": false,
+      "goodbye": false,
+      "antilink": false,
+      "economy": true,
+      "nsfw": false
+    },
+    "alerts": [],
+    "stats": {
+      "messages": 0
+    },
+    "__uuid": "2839de0e-4e9c-4e5f-ac09-1bb01291f376",
+    "updatedAt": "2026-01-16T22:13:29.505Z",
+    "createdAt": "2026-01-16T22:13:29.505Z"
+  }
+]

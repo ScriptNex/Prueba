@@ -1,0 +1,30 @@
+node_modules/
+dist/
+sessions/
+prembots/
+subbots/
+*.log
+pnpm.cmd
+.cache/
+.replit
+.apt_cache/
+error.log
+build_errors.log
+tsc_errors*
+users_dump.json
+extract_links.js
+links.txt
+reorganize_json.ps1
+fix_characters_complete.ps1
+clean_characters.ps1
+kl.js
+s
+worker/
+workers/
+.git/
+# Include these explicitly just in case
+!src/
+!index.ts
+!package.json
+!tsconfig.json
+! .gitignore
