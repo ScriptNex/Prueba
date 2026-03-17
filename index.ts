@@ -1,4 +1,4 @@
-import { Bot } from './src/core/Bot.js';
+import { Bot } from './core/Bot.js';
 import { globalLogger as logger } from './src/utils/Logger.js';
 
 process.on('uncaughtException', (err: Error) =>
