@@ -1,4 +1,4 @@
-import { Bot } from './src/core/Bot';
+import { Bot } from './src/core/Bot.ts';
 
 (async () => {
     const bot = new Bot();
