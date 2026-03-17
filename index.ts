@@ -19,33 +19,36 @@ const config = {
 const nodeRole = process.env.NODE_ROLE || 'main';
 const bot = new Bot(config);
 
-if (nodeRole === 'worker') {
-    logger.info('✿ Alya Kujou Bot - Modo WORKER');
-    await bot.initializeWorker();
-    logger.info('✿ Worker iniciado exitosamente');
-} else {
-    logger.info('✿ Alya Kujou Bot - Iniciando...');
-    await bot.initialize();
-    await bot.start();
+async function startApp() {
+    if (nodeRole === 'worker') {
+        logger.info('✿ Alya Kujou Bot - Modo WORKER');
+        await bot.initializeWorker();
+    } else {
+        logger.info('✿ Alya Kujou Bot - Iniciando...');
+        await bot.initialize();
+        await bot.start();
 
-    try {
-        const { CLUSTER_CONFIG } = await import('./src/config/nodes.js');
-        const { WorkerServer } = await import('./src/services/cluster/WorkerServer.js');
-        const worker = new WorkerServer();
-        await worker.start(CLUSTER_CONFIG.port);
-    } catch (e: any) {
-        logger.warn('⚠ WorkerServer not started on main:', e);
+        try {
+            const { CLUSTER_CONFIG } = await import('./src/config/nodes.js');
+            const { WorkerServer } = await import('./src/services/cluster/WorkerServer.js');
+            const worker = new WorkerServer();
+            await worker.start(CLUSTER_CONFIG.port);
+        } catch (e: any) {
+            logger.warn('⚠ WorkerServer no iniciado en main:', e.message);
+        }
+
+        try {
+            const { NodeManager } = await import('./src/services/cluster/NodeManager.js');
+            const nodeManager = new NodeManager();
+            (global as any).nodeManager = nodeManager;
+            nodeManager.start();
+            logger.info('✿ NodeManager iniciado');
+        } catch (e: any) {
+            logger.warn('⚠ NodeManager no iniciado:', e.message);
+        }
+
+        logger.info('✿ Bot iniciado exitosamente');
     }
-
-    try {
-        const { NodeManager } = await import('./src/services/cluster/NodeManager.js');
-        const nodeManager = new NodeManager();
-        (global as any).nodeManager = nodeManager;
-        nodeManager.start();
-        logger.info('✿ NodeManager iniciado');
-    } catch (e: any) {
-        logger.warn('⚠ NodeManager not started:', e);
-    }
-
-    logger.info('✿ Bot iniciado exitosamente');
 }
+
+startApp().catch(err => logger.error('Error en el arranque:', err));
